@@ -6,3 +6,11 @@
     color: black;
     font-size: 20px;
 }
+
+.container  {
+    margin-top: 15px;
+}
+
+.carousel-item > img {
+    height: 500px;
+}
